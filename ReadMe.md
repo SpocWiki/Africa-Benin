@@ -107,8 +107,8 @@ id: Benin
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Benin//
-markerFolder: ./Benin//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Benin] 
