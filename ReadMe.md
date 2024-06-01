@@ -21,7 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- BEN
 - Benin
 - Bénin
 - بنن
