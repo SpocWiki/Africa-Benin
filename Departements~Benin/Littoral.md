@@ -40,11 +40,18 @@ markerFolder: ./Littoral/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Benin/Counties/Littoral|Littoral]] 
-- [[../../../../../../_public/geo/Continent/Africa/Benin/Counties/Littoral.public|Littoral.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Benin/Counties/Littoral.internal|Littoral.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Benin/Counties/Littoral.protect|Littoral.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Benin/Counties/Littoral.private|Littoral.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Benin/Counties/Littoral.personal|Littoral.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Benin/Counties/Littoral.secret|Littoral.secret]] 
+
+### #is_/same_as :: [Littoral](/_Standards/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Littoral.md) 
+
+### #is_/same_as :: [Littoral.public](/_public/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Littoral.public.md) 
+
+### #is_/same_as :: [Littoral.internal](/_internal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Littoral.internal.md) 
+
+### #is_/same_as :: [Littoral.protect](/_protect/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Littoral.protect.md) 
+
+### #is_/same_as :: [Littoral.private](/_private/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Littoral.private.md) 
+
+### #is_/same_as :: [Littoral.personal](/_personal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Littoral.personal.md) 
+
+### #is_/same_as :: [Littoral.secret](/_secret/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Littoral.secret.md)
 

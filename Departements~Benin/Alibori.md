@@ -40,11 +40,18 @@ markerFolder: ./Alibori/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Benin/Counties/Alibori|Alibori]] 
-- [[../../../../../../_public/geo/Continent/Africa/Benin/Counties/Alibori.public|Alibori.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Benin/Counties/Alibori.internal|Alibori.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Benin/Counties/Alibori.protect|Alibori.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Benin/Counties/Alibori.private|Alibori.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Benin/Counties/Alibori.personal|Alibori.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Benin/Counties/Alibori.secret|Alibori.secret]] 
+
+### #is_/same_as :: [Alibori](/_Standards/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Alibori.md) 
+
+### #is_/same_as :: [Alibori.public](/_public/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Alibori.public.md) 
+
+### #is_/same_as :: [Alibori.internal](/_internal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Alibori.internal.md) 
+
+### #is_/same_as :: [Alibori.protect](/_protect/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Alibori.protect.md) 
+
+### #is_/same_as :: [Alibori.private](/_private/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Alibori.private.md) 
+
+### #is_/same_as :: [Alibori.personal](/_personal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Alibori.personal.md) 
+
+### #is_/same_as :: [Alibori.secret](/_secret/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Alibori.secret.md)
 

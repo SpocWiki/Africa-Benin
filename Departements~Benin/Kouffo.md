@@ -40,11 +40,18 @@ markerFolder: ./Kouffo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Benin/Counties/Kouffo|Kouffo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Benin/Counties/Kouffo.public|Kouffo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Benin/Counties/Kouffo.internal|Kouffo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Benin/Counties/Kouffo.protect|Kouffo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Benin/Counties/Kouffo.private|Kouffo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Benin/Counties/Kouffo.personal|Kouffo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Benin/Counties/Kouffo.secret|Kouffo.secret]] 
+
+### #is_/same_as :: [Kouffo](/_Standards/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Kouffo.md) 
+
+### #is_/same_as :: [Kouffo.public](/_public/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Kouffo.public.md) 
+
+### #is_/same_as :: [Kouffo.internal](/_internal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Kouffo.internal.md) 
+
+### #is_/same_as :: [Kouffo.protect](/_protect/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Kouffo.protect.md) 
+
+### #is_/same_as :: [Kouffo.private](/_private/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Kouffo.private.md) 
+
+### #is_/same_as :: [Kouffo.personal](/_personal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Kouffo.personal.md) 
+
+### #is_/same_as :: [Kouffo.secret](/_secret/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Kouffo.secret.md)
 

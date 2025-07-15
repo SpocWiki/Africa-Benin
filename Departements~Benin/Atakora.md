@@ -40,11 +40,18 @@ markerFolder: ./Atakora/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Benin/Counties/Atakora|Atakora]] 
-- [[../../../../../../_public/geo/Continent/Africa/Benin/Counties/Atakora.public|Atakora.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Benin/Counties/Atakora.internal|Atakora.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Benin/Counties/Atakora.protect|Atakora.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Benin/Counties/Atakora.private|Atakora.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Benin/Counties/Atakora.personal|Atakora.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Benin/Counties/Atakora.secret|Atakora.secret]] 
+
+### #is_/same_as :: [Atakora](/_Standards/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atakora.md) 
+
+### #is_/same_as :: [Atakora.public](/_public/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atakora.public.md) 
+
+### #is_/same_as :: [Atakora.internal](/_internal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atakora.internal.md) 
+
+### #is_/same_as :: [Atakora.protect](/_protect/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atakora.protect.md) 
+
+### #is_/same_as :: [Atakora.private](/_private/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atakora.private.md) 
+
+### #is_/same_as :: [Atakora.personal](/_personal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atakora.personal.md) 
+
+### #is_/same_as :: [Atakora.secret](/_secret/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atakora.secret.md)
 

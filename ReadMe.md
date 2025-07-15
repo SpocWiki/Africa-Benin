@@ -129,10 +129,4 @@ Capital :: [[Porto-Novo1]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Benin|Benin]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~West/Benin.internal|Benin.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~West/Benin.protect|Benin.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~West/Benin.private|Benin.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~West/Benin.personal|Benin.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~West/Benin.secret|Benin.secret]] 
+

@@ -40,11 +40,18 @@ markerFolder: ./Plateau/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Benin/Counties/Plateau|Plateau]] 
-- [[../../../../../../_public/geo/Continent/Africa/Benin/Counties/Plateau.public|Plateau.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Benin/Counties/Plateau.internal|Plateau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Benin/Counties/Plateau.protect|Plateau.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Benin/Counties/Plateau.private|Plateau.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Benin/Counties/Plateau.personal|Plateau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Benin/Counties/Plateau.secret|Plateau.secret]] 
+
+### #is_/same_as :: [Plateau](/_Standards/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Plateau.md) 
+
+### #is_/same_as :: [Plateau.public](/_public/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Plateau.public.md) 
+
+### #is_/same_as :: [Plateau.internal](/_internal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Plateau.internal.md) 
+
+### #is_/same_as :: [Plateau.protect](/_protect/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Plateau.protect.md) 
+
+### #is_/same_as :: [Plateau.private](/_private/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Plateau.private.md) 
+
+### #is_/same_as :: [Plateau.personal](/_personal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Plateau.personal.md) 
+
+### #is_/same_as :: [Plateau.secret](/_secret/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Plateau.secret.md)
 

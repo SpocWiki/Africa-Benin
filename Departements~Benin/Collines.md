@@ -40,11 +40,18 @@ markerFolder: ./Collines/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Benin/Counties/Collines|Collines]] 
-- [[../../../../../../_public/geo/Continent/Africa/Benin/Counties/Collines.public|Collines.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Benin/Counties/Collines.internal|Collines.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Benin/Counties/Collines.protect|Collines.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Benin/Counties/Collines.private|Collines.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Benin/Counties/Collines.personal|Collines.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Benin/Counties/Collines.secret|Collines.secret]] 
+
+### #is_/same_as :: [Collines](/_Standards/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Collines.md) 
+
+### #is_/same_as :: [Collines.public](/_public/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Collines.public.md) 
+
+### #is_/same_as :: [Collines.internal](/_internal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Collines.internal.md) 
+
+### #is_/same_as :: [Collines.protect](/_protect/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Collines.protect.md) 
+
+### #is_/same_as :: [Collines.private](/_private/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Collines.private.md) 
+
+### #is_/same_as :: [Collines.personal](/_personal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Collines.personal.md) 
+
+### #is_/same_as :: [Collines.secret](/_secret/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Collines.secret.md)
 

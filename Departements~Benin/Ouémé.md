@@ -40,11 +40,18 @@ markerFolder: ./Ouémé/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Benin/Counties/Ouémé|Ouémé]] 
-- [[../../../../../../_public/geo/Continent/Africa/Benin/Counties/Ouémé.public|Ouémé.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Benin/Counties/Ouémé.internal|Ouémé.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Benin/Counties/Ouémé.protect|Ouémé.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Benin/Counties/Ouémé.private|Ouémé.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Benin/Counties/Ouémé.personal|Ouémé.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Benin/Counties/Ouémé.secret|Ouémé.secret]] 
+
+### #is_/same_as :: [Ouémé](/_Standards/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé.md) 
+
+### #is_/same_as :: [Ouémé.public](/_public/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé.public.md) 
+
+### #is_/same_as :: [Ouémé.internal](/_internal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé.internal.md) 
+
+### #is_/same_as :: [Ouémé.protect](/_protect/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé.protect.md) 
+
+### #is_/same_as :: [Ouémé.private](/_private/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé.private.md) 
+
+### #is_/same_as :: [Ouémé.personal](/_personal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé.personal.md) 
+
+### #is_/same_as :: [Ouémé.secret](/_secret/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé.secret.md)
 

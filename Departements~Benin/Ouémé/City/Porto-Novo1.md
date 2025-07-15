@@ -1,4 +1,4 @@
-﻿---
+---
 location: [6.466667,2.6] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Benin/City/Porto-Novo1|Porto-Novo1]] 
-- [[../../../../../../_public/geo/Continent/Africa/Benin/City/Porto-Novo1.public|Porto-Novo1.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Benin/City/Porto-Novo1.internal|Porto-Novo1.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Benin/City/Porto-Novo1.protect|Porto-Novo1.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Benin/City/Porto-Novo1.private|Porto-Novo1.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Benin/City/Porto-Novo1.personal|Porto-Novo1.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Benin/City/Porto-Novo1.secret|Porto-Novo1.secret]] 
+
+### #is_/same_as :: [Porto-Novo1](/_Standards/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé/City/Porto-Novo1.md) 
+
+### #is_/same_as :: [Porto-Novo1.public](/_public/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé/City/Porto-Novo1.public.md) 
+
+### #is_/same_as :: [Porto-Novo1.internal](/_internal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé/City/Porto-Novo1.internal.md) 
+
+### #is_/same_as :: [Porto-Novo1.protect](/_protect/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé/City/Porto-Novo1.protect.md) 
+
+### #is_/same_as :: [Porto-Novo1.private](/_private/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé/City/Porto-Novo1.private.md) 
+
+### #is_/same_as :: [Porto-Novo1.personal](/_personal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé/City/Porto-Novo1.personal.md) 
+
+### #is_/same_as :: [Porto-Novo1.secret](/_secret/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé/City/Porto-Novo1.secret.md)
+
