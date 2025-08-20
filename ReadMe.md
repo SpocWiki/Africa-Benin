@@ -1,35 +1,36 @@
 ---
 location:
-- 6.46667
-- 2.6
+  - 6.46667
+  - 2.6
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26849
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Benin
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Benin
-- Bénin
-- بنن
-- 贝宁
-- Бенин
-- the Republic of Benin
-- la República de Benin
+  - Benin
+  - Bénin
+  - بنن
+  - 贝宁
+  - Бенин
+  - the Republic of Benin
+  - la República de Benin
 Languages:
-- fr-BJ
+  - fr-BJ
 ---
 
 
