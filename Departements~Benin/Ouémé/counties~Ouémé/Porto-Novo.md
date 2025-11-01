@@ -31,8 +31,8 @@ Country :: [[Benin]]
 id: Porto-Novo1
 coordinates: [[Porto-Novo]] 
 markerFile: [[Porto-Novo]] 
-coordinates: [[Porto-Novo]] 
-markerFile: [[Porto-Novo]] 
+geojsonFolder: ./Porto-Novo/
+markerFolder: ./Porto-Novo/
 zoomFeatures: true 
 defaultZoom: 11 
 maxZoom: 18
