@@ -28,7 +28,7 @@ Country :: [[Benin]]
 ## #has_/map 
 
 ```leaflet
-id: Porto-Novo1
+id: Porto-Novo
 coordinates: [[Porto-Novo]] 
 markerFile: [[Porto-Novo]] 
 geojsonFolder: ./Porto-Novo/
