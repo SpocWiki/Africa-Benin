@@ -40,17 +40,17 @@ markerFolder: ./Mono/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mono](/_Standards/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Mono.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Mono|Mono]] 
 
-### #is_/same_as :: [Mono.public](/_public/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Mono.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Mono.public|Mono.public]] 
 
-### #is_/same_as :: [Mono.internal](/_internal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Mono.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Mono.internal|Mono.internal]] 
 
-### #is_/same_as :: [Mono.protect](/_protect/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Mono.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Mono.protect|Mono.protect]] 
 
-### #is_/same_as :: [Mono.private](/_private/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Mono.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Mono.private|Mono.private]] 
 
-### #is_/same_as :: [Mono.personal](/_personal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Mono.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Mono.personal|Mono.personal]] 
 
-### #is_/same_as :: [Mono.secret](/_secret/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Mono.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Mono.secret|Mono.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Atlantique/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atlantique](/_Standards/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atlantique.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atlantique|Atlantique]] 
 
-### #is_/same_as :: [Atlantique.public](/_public/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atlantique.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atlantique.public|Atlantique.public]] 
 
-### #is_/same_as :: [Atlantique.internal](/_internal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atlantique.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atlantique.internal|Atlantique.internal]] 
 
-### #is_/same_as :: [Atlantique.protect](/_protect/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atlantique.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atlantique.protect|Atlantique.protect]] 
 
-### #is_/same_as :: [Atlantique.private](/_private/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atlantique.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atlantique.private|Atlantique.private]] 
 
-### #is_/same_as :: [Atlantique.personal](/_personal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atlantique.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atlantique.personal|Atlantique.personal]] 
 
-### #is_/same_as :: [Atlantique.secret](/_secret/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atlantique.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atlantique.secret|Atlantique.secret]] 
 

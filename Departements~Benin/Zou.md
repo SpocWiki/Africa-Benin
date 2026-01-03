@@ -39,17 +39,17 @@ markerFolder: ./Zou/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zou](/_Standards/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Zou.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Zou|Zou]] 
 
-### #is_/same_as :: [Zou.public](/_public/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Zou.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Zou.public|Zou.public]] 
 
-### #is_/same_as :: [Zou.internal](/_internal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Zou.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Zou.internal|Zou.internal]] 
 
-### #is_/same_as :: [Zou.protect](/_protect/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Zou.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Zou.protect|Zou.protect]] 
 
-### #is_/same_as :: [Zou.private](/_private/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Zou.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Zou.private|Zou.private]] 
 
-### #is_/same_as :: [Zou.personal](/_personal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Zou.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Zou.personal|Zou.personal]] 
 
-### #is_/same_as :: [Zou.secret](/_secret/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Zou.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Zou.secret|Zou.secret]] 
 

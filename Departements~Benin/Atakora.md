@@ -40,17 +40,17 @@ markerFolder: ./Atakora/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atakora](/_Standards/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atakora.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atakora|Atakora]] 
 
-### #is_/same_as :: [Atakora.public](/_public/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atakora.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atakora.public|Atakora.public]] 
 
-### #is_/same_as :: [Atakora.internal](/_internal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atakora.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atakora.internal|Atakora.internal]] 
 
-### #is_/same_as :: [Atakora.protect](/_protect/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atakora.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atakora.protect|Atakora.protect]] 
 
-### #is_/same_as :: [Atakora.private](/_private/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atakora.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atakora.private|Atakora.private]] 
 
-### #is_/same_as :: [Atakora.personal](/_personal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atakora.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atakora.personal|Atakora.personal]] 
 
-### #is_/same_as :: [Atakora.secret](/_secret/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atakora.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Atakora.secret|Atakora.secret]] 
 

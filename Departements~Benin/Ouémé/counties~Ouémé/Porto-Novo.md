@@ -56,19 +56,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Porto-Novo)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Porto-Novo1](/_Standards/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé/City/Porto-Novo1.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé/counties~Ouémé/Porto-Novo|Porto-Novo]] 
 
-### #is_/same_as :: [Porto-Novo1.public](/_public/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé/City/Porto-Novo1.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé/counties~Ouémé/Porto-Novo.public|Porto-Novo.public]] 
 
-### #is_/same_as :: [Porto-Novo1.internal](/_internal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé/City/Porto-Novo1.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé/counties~Ouémé/Porto-Novo.internal|Porto-Novo.internal]] 
 
-### #is_/same_as :: [Porto-Novo1.protect](/_protect/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé/City/Porto-Novo1.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé/counties~Ouémé/Porto-Novo.protect|Porto-Novo.protect]] 
 
-### #is_/same_as :: [Porto-Novo1.private](/_private/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé/City/Porto-Novo1.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé/counties~Ouémé/Porto-Novo.private|Porto-Novo.private]] 
 
-### #is_/same_as :: [Porto-Novo1.personal](/_personal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé/City/Porto-Novo1.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé/counties~Ouémé/Porto-Novo.personal|Porto-Novo.personal]] 
 
-### #is_/same_as :: [Porto-Novo1.secret](/_secret/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé/City/Porto-Novo1.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Ouémé/counties~Ouémé/Porto-Novo.secret|Porto-Novo.secret]] 
 

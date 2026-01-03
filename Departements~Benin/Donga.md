@@ -40,17 +40,17 @@ markerFolder: ./Donga/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Donga](/_Standards/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Donga.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Donga|Donga]] 
 
-### #is_/same_as :: [Donga.public](/_public/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Donga.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Donga.public|Donga.public]] 
 
-### #is_/same_as :: [Donga.internal](/_internal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Donga.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Donga.internal|Donga.internal]] 
 
-### #is_/same_as :: [Donga.protect](/_protect/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Donga.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Donga.protect|Donga.protect]] 
 
-### #is_/same_as :: [Donga.private](/_private/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Donga.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Donga.private|Donga.private]] 
 
-### #is_/same_as :: [Donga.personal](/_personal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Donga.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Donga.personal|Donga.personal]] 
 
-### #is_/same_as :: [Donga.secret](/_secret/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Donga.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Benin/Departements~Benin/Donga.secret|Donga.secret]] 
 
