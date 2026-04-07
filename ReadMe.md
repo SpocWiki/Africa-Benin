@@ -116,7 +116,7 @@ markerFolder: .//
 [Area-Land::110620] 
 Continent :: [[Africa]]  
 [VehicleCode::BJ] 
-Capital :: [[Departements~Benin/Ouémé/counties~Ouémé/Porto-Novo]]  
+Capital :: [[Departements~Benin/Ouémé/counties~Ouémé/Porto-Novo|Porto-Novo]]  
 
 ![[Coat_of_arms_of_Benin.svg|350]] 
 
