@@ -54,7 +54,7 @@ maxZoom: 18
 >
 > Situated on an inlet of the Gulf of Guinea, in the southeastern portion of the country, the city was originally developed as a port for the transatlantic slave trade led by the Portuguese Empire. It is Benin's second-largest city, and although it is the official capital, where the national legislature sits, the larger city of Cotonou is the seat of government, where most of the government buildings are situated and government departments operate.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Porto-Novo)
+> [Wikipedia](https://en.wikipedia.org/wiki/Porto-Novo) 
 
 
 ## Confidential Links & Embeds: 
